@@ -21,7 +21,8 @@
 
 **Resumo:** Desenvolvimento de uma solução moderna de Data Lakehouse agnóstica a provedor, mas inovadora com serviços gerenciados nativos da AWS em conjunto com o Databricks. Focado nas necessidades de personalização analítica (Pontuação de Risco individual por perfil de direção via telemetria) e redução de fraudes em sinistros climáticos. Demonstra o uso do Amazon Kinesis para consumo em tempo real e S3 com formato aberto Delta Lake para garantir transações ACID, versionamento e alta performance analítica sobre imagens e tabelas SQL.
 
-🔗 **Detalhes do Projeto:** [Acesse o PDF da Arquitetura AWS Lakehouse](./docs/arquitetura_aws_lakehouse.pdf)
+🔗 **Detalhes do Projeto:** [Acesse o PDF da Arquitetura Data Lakehouse](./Arquitetura_DataLakeHouse.pdf
+)
 
 ---
 
