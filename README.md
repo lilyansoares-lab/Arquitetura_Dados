@@ -1,8 +1,8 @@
-# 🛠️ SUMÁRIO PROJETOS
+## 🛠️ SUMÁRIO PROJETOS
 
 ---
 
-## 🏥 1. [SEGURADORA] Arquitetura Plataforma de Dados: [Score] de Risco e Detecção de Fraudes
+### 🏥 1. [SEGURADORA] Arquitetura Plataforma de Dados: [Score] de Risco e Detecção de Fraudes
 **Databricks x Snowflake**
 
 - **Tipo de Projeto:** Seguradora Digital de Alta Escala  
@@ -14,7 +14,7 @@
 
 ---
 
-## 🏥 2. [SEGURADORA] Arquitetura Data Lakehouse e Databricks: Análise Preventiva de Sinistros e Telemetria
+### 🏥 2. [SEGURADORA] Arquitetura Data Lakehouse e Databricks: Análise Preventiva de Sinistros e Telemetria
 
 - **Tipo de Projeto:** Seguradora / Modern Data Stack  
 - **Arquitetura:** Data Lakehouse, AWS Serverless (S3, Kinesis, Glue), Delta Lake e Databricks Analytics unificado.
@@ -25,7 +25,7 @@
 
 ---
 
-## 🏥 3. [SEGURADORA] Arquitetura Cloud Híbrida: Governança e FinOps para Núcleo de Apólices
+### 🏥 3. [SEGURADORA] Arquitetura Cloud Híbrida: Governança e FinOps para Núcleo de Apólices
 
 - **Tipo de Projeto:** Seguradora / Infraestrutura Corporativa  
 - **Arquitetura:** Governança Multi-Cloud, Interoperabilidade, FinOps (OpEx/CapEx) e Integração Híbrida.
@@ -36,7 +36,7 @@
 
 ---
 
-## 💳 4. [FINTECH] Arquitetura e Modelagem de Dados de Adquirência: Conciliação, MDR e Parcelamentos
+### 💳 4. [FINTECH] Arquitetura e Modelagem de Dados de Adquirência: Conciliação, MDR e Parcelamentos
 
 - **Tipo de Projeto:** Fintech  
 - **Arquitetura:** Modelagem Relacional (3FN), Data Vault 2.0, Star Schema e Business Intelligence.
