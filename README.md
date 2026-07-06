@@ -25,7 +25,7 @@
 
 ---
 
-### 🏥 3. [SEGURADORA] Arquitetura Multi Cloud: Governança e FinOps para Apólices
+### 🏥 3. [SEGURADORA] Arquitetura Multi Cloud: Governança e FinOps para Sinistros
 
 - **Tipo de Projeto:** Seguradora / Infraestrutura Corporativa  
 - **Arquitetura:** Governança Multi-Cloud, Interoperabilidade, FinOps (OpEx/CapEx) e Integração Híbrida.
