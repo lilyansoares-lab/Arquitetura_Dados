@@ -14,7 +14,7 @@
 
 ---
 
-### 🏥 2. [SEGURADORA] Arquitetura Data Lakehouse e Databricks: Análise Preventiva de Sinistros e Telemetria
+### 🏥 2. [SEGURADORA] Arquitetura Data Lakehouse e Databricks: Análise Preditiva de Sinistros e Telemetria
 
 - **Tipo de Projeto:** Seguradora / Modern Data Stack  
 - **Arquitetura:** Data Lakehouse, AWS Serverless (S3, Kinesis, Glue), Delta Lake e Databricks Analytics unificado.
