@@ -1,4 +1,5 @@
 🛠️ Projetos
+
 🏥 1. [SEGURADORA] Arquitetura Plaforma de Dados: Score de Risco e Detecção de Fraudes: Databricks x Snowflake
 Tipo de Projeto: Seguradora Digital de Alta Escala
 
