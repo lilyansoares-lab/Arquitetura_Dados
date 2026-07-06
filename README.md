@@ -10,7 +10,7 @@
 
 **Resumo:** Planejamento estratégico e comparativo entre duas das maiores plataformas de dados do mercado (Databricks e Snowflake) aplicadas ao setor de seguros. O projeto aborda a administração em fluxo contínuo de dados estruturados (apólices), semiestruturados (telemetria IoT de veículos) e não estruturados (fotos de vistorias de sinistros e vídeos de acidentes) para modelos preditivos de Score de Risco e Detecção de Fraudes em tempo real, atendendo rigorosamente à LGPD.
 
-🔗 **Detalhes do Projeto:** [Acesse o PDF do Comparativo Databricks x Snowflake](./Arquitetura Dados IA - Databricks x Snowflake.pdf)
+🔗 **Detalhes do Projeto:** [Acesse o PDF do Comparativo Databricks x Snowflake](./Arquitetura_Plataforma_Dados.pdf)
 
 ---
 
