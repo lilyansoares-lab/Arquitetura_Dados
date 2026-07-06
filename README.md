@@ -33,7 +33,7 @@
 
 **Resumo:** Planejamento e distribuição de um ecossistema de dados distribuído estrategicamente entre os principais provedores de nuvem (AWS, GCP, Azure) e ambiente On-Premises. A arquitetura mantém os sistemas transacionais legados (núcleo de apólices e faturamento) operando localmente por compliance; utiliza a AWS como repositório central de armazenamento (Data Lake nas camadas Bronze, Silver e Gold); centralização do processamento analítico e Machine Learning via Databricks na GCP; e delega a camada de consumo (BI com Power BI) e segurança de identidades para o Azure.
 
-🔗 **Detalhes do Projeto:** [Acesse o PDF da Estratégia Multi-Cloud](./docs/Arquitetura_MultiCloud.pdf)
+🔗 **Detalhes do Projeto:** [Acesse o PDF da Estratégia Multi-Cloud](./Arquitetura_MultiCloud.pdf)
 
 ---
 
@@ -44,4 +44,4 @@
 
 **Resumo:** Desenho de uma infraestrutura analítica completa para uma empresa credenciadora de cartões de crédito. Soluciona o desafio de transformar dados transacionais brutos em informações auditáveis, tratando regras de negócio complexas como taxas de desconto (MDR), parcelamentos dinâmicos e antecipações de recebíveis (RAV) influenciadas pela taxa SELIC. O ecossistema garante rastreabilidade total sem necessidade de reengenharia diante de novos sistemas.
 
-🔗 **Detalhes do Projeto:** [Acesse o PDF do Projeto de Modelagem Dados](./docs/Modelagem_DataVault.pdf)
+🔗 **Detalhes do Projeto:** [Acesse o PDF do Projeto de Modelagem Dados](./Modelagem_DataVault.pdf)
